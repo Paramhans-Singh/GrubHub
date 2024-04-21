@@ -1,0 +1,11 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  color: #081083;
+}
+
+.items-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
