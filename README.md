@@ -3,7 +3,7 @@
 Welcome to Grub Hub, your ultimate online destination for ordering delicious food with ease. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and integrated with Stripe for secure payments, Grub Hub aims to provide a seamless and delightful food ordering experience. Whether you're craving burgers, pizzas, or salads, Grub Hub has got you covered!
 
 ## Grub Hub Live Preview 
-
+https://github.com/Paramhans-Singh/GrubHub/assets/101575816/695ef9e4-c17b-4ead-8099-b6198326d32d
 
 ## Objectives
 - **User-Friendly Ordering**: Offer an easy-to-use platform for ordering food online.
